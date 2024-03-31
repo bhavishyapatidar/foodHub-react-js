@@ -1,0 +1,12 @@
+{
+  "name": "foodhub-react",
+  "version": "1.0.0",
+  "description": "## 1. Demo And Installation",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
